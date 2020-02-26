@@ -1,5 +1,7 @@
 # E07a-Save-and-Load    
 
+Implemented saving to a config file, the simplest form of saving state in Godot.
+
 This is an opportunity for you to practice the simplest form of saving state in Godot, saving to a config file.
 
 As always, Fork and Clone this repository.
